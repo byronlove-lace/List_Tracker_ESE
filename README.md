@@ -1,0 +1,1 @@
+This project has no association with the Every Story Ever podcast. I just wanted a way to track the comics I've read from the list while keeping up-to-date with the podcast's additions to the list. Currently working on the Bubble Tea UI side of the project.
